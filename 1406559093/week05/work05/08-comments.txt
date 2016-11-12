@@ -1,0 +1,2 @@
+Method printLine(int line) berfungsi untuk mencetak char 'x'.
+Method void main (void) berfungsi untuk mencetak alokasi memori dan mencetak isi dari masing - masing PID, USER, NI, VIRT, RES, SHR, S, %CPU, %MEM, TIME+, dan COMMAND.

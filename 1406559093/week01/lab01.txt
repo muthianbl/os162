@@ -1,0 +1,21 @@
+total 64
+drwxr-xr-x 15 johannes.anugerah StafCS 4096 Sep 12 22:01 .
+drwx--x--x  3 johannes.anugerah StafCS 4096 Sep 12 21:32 ..
+drwxr-xr-x  8 johannes.anugerah StafCS 4096 Sep 12 22:00 .git
+-rw-r--r--  1 johannes.anugerah StafCS    0 Sep 12 22:02 lab01.txt
+-rw-r--r--  1 johannes.anugerah StafCS    7 Sep 12 21:32 README.md
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:44 SandBox
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:59 week00
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:34 week01
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:34 week02
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:34 week03
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:35 week04
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:35 week05
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:35 week06
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:35 week07
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:35 week08
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:35 week09
+drwxr-xr-x  2 johannes.anugerah StafCS 4096 Sep 12 21:36 week10
+/home/fasilkom/mahasiswa/j/johannes.anugerah/os162/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 12 Sep 2016 at 22:20:56

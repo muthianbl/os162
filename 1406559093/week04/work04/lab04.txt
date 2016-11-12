@@ -1,0 +1,44 @@
+Romawi I
+1. Jadi perbedaan pada bagian codenya adalah inisialisasi varchr0 sampai varchr7 pada local variables terletak didalam method void main sedangkan inisialisasi pada global variables terletak diluar method void main. Perbedaan pada segi output terletak pada address yang tercetak lebih panjang pada local variables daripada global variables
+
+2. Address local dengan global variables mempunyai jarak yang jauh karena global variables akan lebih sering diakses sehingga ditempatkan pada struktur data yang lebih mudah diakses
+
+3. Global variables dapat dilihat dan dirubah oleh semua fungsi dalam program sedangkan local variables hanya dapat dilihat dan dimodifikasi oleh fungsi dimana local variables didefinisikan. Sumber : informatika.web.id/variable-global-dan-variable-lokal-pada-c.htm
+
+
+Romawi II
+1. Pointer variable adalah variable yang valuenya merupakan address dari suatu char variable yang dirujuk oleh pointer variable
+
+2.Cara menulis pointer variable dalam  C adalah char* ptrchr=&varchr . Cara menulis pointer variable dalam C adalah char* ptrchr  Cara membuat chain of the pointernya adalah menyimpan value yang merupakan adress dari suatu variable sehingga pointer akan merujuk ke suatu variable dan jika dibuat pointer yang menunjuk pointer maka akan terbentuk semacam rantai yang mengarah ke value sesungguhnya
+
+3. Pointer adalah variable yang berisi alamat memory sebagai nilainya dan berbeda dengan variable biasa yang berisi nilai tertentu. Dengan kata lain, pointer berisi alamat dari variable yang mempunyai nilai tertentu. Sumber : http://informatikaku-informatika.blogspot.co.id/p/v-behaviorurldefaultvml-o.html
+
+
+Romawi III
+1. Parameter flag :
+	file 1 = jika file1 belom ada maka buat file baru 
+	file 2 = jika file2 belom ada maka buat file baru
+	file 3(1)= jika file belom ada maka buat file baru
+	file 3(2)= jika file belom ada maka buat file baru
+
+2. Parameter mode :
+	file 1 = buka file sehingga bisa dibaca dan ditulis, user(owner) sudah membaca, menulis, dan mengeksekusi permission
+	file 2 = buka file sehingga bisa dibaca dan ditulis, user(owner) sudah membaca, menulis, dan mengeksekusi permission group sudah membaca permission| group sudah menulis permission| lainnya sudah membaca permission
+	file 3(1)= buka file sehingga bisa dibaca dan ditulis, user(owner) sudah membaca, menulis, dan mengeksekusi permission, group sudah eksekusi permission, lainnya sudah eksekusi permission
+	file 3(2)= buka file sehingga bisa dibaca dan ditulis, user(owner) sudah membaca, menulis, dan mengeksekusi permission
+
+3. Kebanyakan Unix file I / O dapat dilakukan dengan enam fungsi berikut : open, close, read, write, lseek, dup, dup2. Fungsi-fungsi ini merupakan bagian dari standar POSIX untuk pemrograman UNIX, bukan bagian dari ANSI C. Tidak seperti standar I / O rutinitas yang disediakan oleh ANSI C (seperti sebagai fscanf dan fprintf yang menyimpan data yang mereka baca di buffer) fungsi-fungsi ini unbuffered I / O. Mereka memanggil system call di kernel, dan akan disebut oleh standar ANSI C fungsi panggilan di lingkungan UNIX. 
+	Sumber : https://www.classes.cs.uchicago.edu/archive/2014/winter/51081-1/LabFAQ/lab3/fileio.html
+
+
+Romawi IV
+1. 54-write adalah program yang berfungsi mencetak dimana letak char tersebut disimpan berdasarkan offset. Hasilnya adalah fd1 = 3 dan fd2 = 4 karena untuk 0 sampai 2 sudah direserved oleh sistem
+
+
+Romawi V
+1. 59-readwrite adalah program yang berfungsi untuk membaca isi dari suatu direktori dan bisa membuat suatu output dari file yang dibaca. Flow dari program ini adalah :
+	1. pertama program menjalankan method void main(void) kemudian program menjalankan printf dan memanggil method void dirfile(char *dname)
+	2. method void dirfile(char *dname) berfungsi untuk me-list isi dari suatu direktori kemudian mencetak isi dari direktori tersebut
+	3. program kembali menjalankan printf setelah dirfile(".") kemudian program memanggil method void rwfile(FILE1)
+	4. method void rwfile(FILE1) berfungsi untuk membaca suatu file sesuai parameter kemudian menghitung bytes dari buffer pointed buf kesuatu file	yang direfer oleh file descriptor fd yaitu file-demo9.txt kemudian mencetak char '.' sesuai banyaknya loop dari OLOOP dan terakhir mencetak total waktu yang terpakai
+
