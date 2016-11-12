@@ -1,0 +1,34 @@
+1.  - perbedaannya terletak pada posisi suatu char. global variabel berada diluar method main sementara local char berada di dalam method main.
+   - global variabel tersimpan di data segmen dan local variabel terletak pada stack. jarak antara data segmen dan stack sangat jauh.
+   - global variabel dapat diakses seluruh fungsi dan local variabel hanya diakses satu fungsi.
+   
+2.  - pointer berisi alamat variabel sebagai nilainya dan variabel berisi sebuah nilai.
+    - menggunakan tanda '*' pada pointer variabel dan menggunakan tanda '**' pada pointer to pointer
+    - suatu variabel yang berisi suatu alamat variabel lain. pointer memiliki dua operator yaitu operator & dan operator *. 
+	   operator & menghasilkan alamat dari suatu operand dan operator * menghasilkan nilai yang berada pada suatu alamat.
+
+3.  - O_RDONLY	Open the file so that it is read only.
+      * O_WRONLY	Open the file so that it is write only.
+      * O_RDWR	Open the file so that it can be read from and written to.
+      * O_APPEND	Append new information to the end of the file.
+      * O_TRUNC	Initially clear all data from the file.
+      * O_CREAT	If the file does not exist, create it. 
+                You must include the third parameter.
+      * O_EXCL	With O_CREAT: exists, the call will fail.	   
+    
+	- * S_IRWXU  00700 user (file  owner) has read, write and execute permission
+	  * S_IRUSR  00400 user has read permission
+      * S_IWUSR  00200 user has write permission
+	  * S_IXUSR  00100 user has execute permission
+	  * S_IRWXG  00070 group has read, write and execute permission
+	  * S_IRGRP  00040 group has read permission
+	  * S_IWGRP  00020 group has write permission
+	  * S_IXGRP  00010 group has execute permission 
+	  * S_IRWXO  00007 others have read, write and execute permission
+	  * S_IROTH  00004 others have read permission
+	  * S_IWOTH  00002 others have write permission
+	  * S_IXOTH  00001 others have execute permission
+
+4. menuliskan suatu string ke suatu file.
+5. untuk menampilkan suatu file-file yang ada di suatu direktori	  
+   

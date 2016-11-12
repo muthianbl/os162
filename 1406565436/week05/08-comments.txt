@@ -1,0 +1,6 @@
+USER : username dari proses. 
+PID : Proses Identification Number
+%CPU : Prosentasi CPU yang digunakan
+%MEM : Prosentasi MEMORY yang digunakan
+TIME : CPU time yang sedang digunakan
+COMMAND : Nama perintah

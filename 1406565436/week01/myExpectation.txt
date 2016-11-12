@@ -1,0 +1,9 @@
+Rezady
+<<<<<<< HEAD
+my expectation
+bisa mengetahui tujuan dari pembelajaran OS dan bisa mengaplikasikan untuk matkul berikutnya
+=======
+
+# myExpectation
+mengetahui tujuan pembelajaran matkul OS dan bisa mengaplikasikan untuk matkul selanjutnya
+>>>>>>> c1c266d374e0f3529315e8fd3e7160704f157376

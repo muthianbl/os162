@@ -1,0 +1,20 @@
+total 64
+drwxr-xr-x 15 rezady.yan StafCS 4096 Sep 13 20:16 .
+drwx--x--x  4 rezady.yan StafCS 4096 Sep 13 20:09 ..
+drwxr-xr-x  8 rezady.yan StafCS 4096 Sep 13 20:15 .git
+-rw-r--r--  1 rezady.yan StafCS    0 Sep 13 20:17 lab01.txt
+-rw-r--r--  1 rezady.yan StafCS    7 Sep 12 13:43 README.md
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 17:12 SandBox
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 13 20:09 week00
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 14:05 week01
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:22 week02
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:24 week03
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:25 week04
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:25 week05
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:26 week06
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:29 week07
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:30 week08
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:30 week09
+drwxr-xr-x  2 rezady.yan StafCS 4096 Sep 12 16:31 week10
+/home/fasilkom/mahasiswa/r/rezady.yan/os162/week01
+Today is 13 Sep 2016 at 20:49:40
