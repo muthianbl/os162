@@ -1,0 +1,4 @@
+Program tersebut menampilkan status computer terutama memory 
+saat memory yang dialokasikan berbeda-beda.
+
+perubahan signifikan terjadi pada Virtual Image(VIRT) dan Resident size(RES) 

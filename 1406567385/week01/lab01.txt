@@ -1,0 +1,27 @@
+total 68
+drwxr-xr-x 16 ismail.raji StafCS 4096 Sep 13 12:30 .
+drwx--x--x  3 ismail.raji StafCS 4096 Sep 13 12:25 ..
+drwxr-xr-x  8 ismail.raji StafCS 4096 Sep 13 12:26 .git
+-rw-r--r--  1 ismail.raji StafCS    0 Sep 13 12:30 lab01.txt
+-rw-r--r--  1 ismail.raji StafCS    7 Sep 13 03:40 README.md
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:46 SandBok
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 12:19 SandBox
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 12:25 week00
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:48 week01
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:48 week02
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:49 week03
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:49 week04
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:49 week05
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:49 week06
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:50 week07
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:50 week08
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:50 week09
+drwxr-xr-x  2 ismail.raji StafCS 4096 Sep 13 03:50 week10
+/home/fasilkom/mahasiswa/i/ismail.raji/os162/week01
+Today is date +%\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S

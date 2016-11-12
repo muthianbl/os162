@@ -1,0 +1,14 @@
+KiB Mem:   8197172 total,   224000 used,  7973172 free,    19648 buffers
+KiB Swap:   683004 total,        0 used,   683004 free.   121284 cached Mem
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1584 ismail.+  20   0    4080    640    564 S   0.0  0.0   0:00.00 06-memory
+ 1584 ismail.+  20   0    4276    640    564 S   0.0  0.0   0:00.00 06-memory
+ 1584 ismail.+  20   0    4212   1292   1200 S   0.0  0.0   0:00.00 06-memory
+ 1584 ismail.+  20   0    4536   1292   1200 S   0.0  0.0   0:00.00 06-memory
+ 1584 ismail.+  20   0    5240   1296   1200 S   0.0  0.0   0:00.00 06-memory
+ 1584 ismail.+  20   0   20600  17660   1200 S   0.0  0.2   0:00.04 06-memory
+ 1584 ismail.+  20   0  266360   1296   1200 S   0.0  0.0   0:00.04 06-memory
+ 1584 ismail.+  20   0    4212   1296   1200 S   0.0  0.0   0:00.04 06-memory
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

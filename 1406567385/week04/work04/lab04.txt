@@ -1,0 +1,59 @@
+1. perbedaan :
+-pada file 00-global-variable.c, variabel didefinisi diluar method mainn
+sedangkan file 01-local-variable.c, varibel didefinisi didalam method main
+-output dari kedua menunjukan lokasi disimpanya data, tetapi yang membedakanya
+adalah lokasinya yang jelas berbeda(file 1 addressnya singkat dan file 2
+addressnya panjang)
+
+kenapa jarak lokasi kedua variabel berbeda jauh ?
+-karena global variable disimpan di memory dimulai dari atas(array biasa) 
+dan local variable disimpan dari bawah(stack)
+
+hal-hal mengenai global & lokal variabel
+-variabel global didefinisi di luar method main sedangkan
+lokal variabel didefinisi di dalam method main 
+
+-variabel global akan disimpan secara array biasa dan variabel lokal akan
+disimpan secara array
+
+-Variabel global merupakan variabel yang dapat digunakan atau dipanggil oleh 
+semua method sedangakan
+variabel lokal adalah variabel yang hanya dapat digunakan atau dipanggil dalam satu method saja
+
+2. perbedaan variabel pointer dengan tipe variabel lain
+tidak seperti tiper variabel lain yang menyimpan suatu value,
+yang disimpan pada variabel pointer adalah alamat dari variabel lain.
+
+cara menuliskan pointer variabel dalam C
+misal ada variabel 
+char varchr='a';
+
+pointer variabelnya adalah 
+char* ptrchr=&varchr;
+
+dan rantai poninter
+char** ptrptr=&ptrchr;
+
+hal-hal tentang pointer variabel
+-merupakan sebuah variabel yang berisi alamat dari variabel lain. Suatu pointer dimaksudkan untuk menunjukan ke suatu alamat memori sehingga alamat dari suatu variabel dapat diketahui dengan mudah.
+-fungsi:adalah untuk menyimpan alamat memori dari sebuah variable atau berfungsi untuk menyimpan alamat memori dari sebuah fungsi
+
+referensi:http://bhaktiaryudaprabawarto.blogspot.co.id/2014/11/pointer-pada-c.html
+
+3. parameter of flag : parameter yang mengatur i/o suatu file. seperti apakah file itu bisa dibaca, diedit dan dijalankan
+parameter of mode : parameter yang membatasi kemampuan user terhadap i/o suatu file. seperti user1 hanya bisa mengedit, user2 hanya bisa membaca dan
+user3 bisa mengedit, membaca dan menjalankan file tersebut.
+
+hal-hal tentang open and close I/O process
+-open and close i/o process adalah proses membuka dan menutup sebuah file
+dengan menggunakan parameter flag dan mode
+
+4.-program 54-write.c mengembalikan nilai (berupa integer) descriptor file yang dijalankan
+-parameter flagnya menunjukan bahwa file dapat di baca dan di tulis, dan juga file baru akan dibuat apabila file yang dimaksud tidak ditemukan
+-pada akhir program, nilai pada variael str1 ditulis kedalam file, dan digantikan dengan nilai str2 di akhir baris program
+
+5.-prgram ini membaca semua file yang ada di direktori work04, membaca dan menulis ke dalam file.
+-flow
+1. membaca semua file yanga ada di dalam direktori dan menampilkan nama filenya
+2. 
+ 
