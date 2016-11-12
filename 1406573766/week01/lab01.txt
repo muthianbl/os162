@@ -1,0 +1,21 @@
+total 68
+drwxr-xr-x 16 sang.agung StafCS 4096 Sep  9 17:12 .
+drwx--x--x  5 sang.agung StafCS 4096 Sep  9 17:11 ..
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  8 13:49 ...
+drwxr-xr-x  8 sang.agung StafCS 4096 Sep  9 17:10 .git
+-rw-r--r--  1 sang.agung StafCS    0 Sep  9 17:13 lab01.txt
+-rw-r--r--  1 sang.agung StafCS    7 Sep  8 13:47 README.md
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:59 SandBox
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 17:09 week00
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  8 14:12 week01
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:47 week02
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:48 week03
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:48 week04
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:48 week05
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:49 week06
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:50 week07
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:50 week08
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:50 week09
+drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:50 week10
+/home/fasilkom/mahasiswa/s/sang.agung/os162/week01
+Today is 09 Sep 2016 at 18:43:37

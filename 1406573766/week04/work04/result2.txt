@@ -1,0 +1,30 @@
+=============================================
+varchr0: value =  a, address = 0x7fff403716ef
+varchr1: value =  b, address = 0x7fff403716ee
+varchr2: value =  c, address = 0x7fff403716ed
+varchr3: value =  d, address = 0x7fff403716ec
+varchr4: value =  e, address = 0x7fff403716eb
+varchr5: value =  f, address = 0x7fff403716ea
+varchr6: value =  g, address = 0x7fff403716e9
+varchr7: value =  h, address = 0x7fff403716e8
+=============================================
+=============================================
+varchr0: value =  a, address = 0x7ffdea0a918f
+varchr1: value =  b, address = 0x7ffdea0a918e
+varchr2: value =  c, address = 0x7ffdea0a918d
+varchr3: value =  d, address = 0x7ffdea0a918c
+varchr4: value =  e, address = 0x7ffdea0a918b
+varchr5: value =  f, address = 0x7ffdea0a918a
+varchr6: value =  g, address = 0x7ffdea0a9189
+varchr7: value =  h, address = 0x7ffdea0a9188
+=============================================
+=============================================
+varchr0: value =  a, address = 0x7ffd2cb6427f
+varchr1: value =  b, address = 0x7ffd2cb6427e
+varchr2: value =  c, address = 0x7ffd2cb6427d
+varchr3: value =  d, address = 0x7ffd2cb6427c
+varchr4: value =  e, address = 0x7ffd2cb6427b
+varchr5: value =  f, address = 0x7ffd2cb6427a
+varchr6: value =  g, address = 0x7ffd2cb64279
+varchr7: value =  h, address = 0x7ffd2cb64278
+=============================================

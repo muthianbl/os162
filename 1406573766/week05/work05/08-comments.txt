@@ -1,0 +1,1 @@
+06-memory.c is a piece of code that will run the command "top" on bash. Setting the display using VIRT, RES, and SHR, bash will show the virtual size, resident size, and sharable memory size of the process running on the server.

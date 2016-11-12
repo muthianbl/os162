@@ -1,0 +1,30 @@
+----------------------------------------1--------------------------------------
+The code on 00-global-char.c puts the variable declarations outside of the main() function, making them global variables. On the other hand, the variable declations on 00-local-char.c is inside the main() function, making them local variables.
+
+The number on their address differs greatly because they are  
+
+A local variable is visible only within the block of code in which it appears. It has meaning only within the function block it was declared in.
+
+A global variable can be accessed from anywhere within the code.
+
+source: 
+http://tldp.org/LDP/abs/html/localvar.html
+
+----------------------------------------2--------------------------------------
+Pointer variable contains the address to a variable, whereas other variable types typically contains the value within the variable itself.
+
+To make pointer variable, you need to extract the address value from the target variable by placing an ampersand(&) as a prefix, then place them into your pointer variable.
+ 
+----------------------------------------3-------------------------------------- 
+O_CREAT will create a new file if it does not exist. The new file will be named after the argument in the parameter.
+
+O_RDWR means that the user can edit the file.
+
+S_IRWXU means that the file owner has read, write and execute permission
+
+S_IRGRP and S_IWGRP respectively means that the group has read and write permission
+
+S_IROTH means that others have read, write and execute permission
+
+open and close I/O process will switch the destination of output. Normally, the output destination is the command line itself. However, we can make a file to be the destination simply by passing the file name as the parameter.
+
