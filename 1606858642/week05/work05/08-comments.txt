@@ -1,0 +1,13 @@
+- The program is about memory allocation using malloc.
+- Malloc is used to allocate a block of memory on the heap.
+- Because malloc is a dynamic memory allocation the memory is more explicitly managed. 
+- The program allocate the specified number of bytes.
+- Like in the program: 
+                    chrStr=malloc(MSIZE1);
+  means that number of bytes of MSIZE1 which is 0x10000 occupy in memory,
+  then requests that many bytes from malloc and then assigns the result to a chrStr.
+- And 
+                    free (chrStr); 
+  means that when a program no longer needs the dynamic chrStr, it should call
+  free to return the memory it occupies to the free store.so it can be used for
+  other purposes. 

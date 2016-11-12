@@ -1,0 +1,4 @@
+learn about how to use badak,
+learn about CIT,CLI and Scripting,
+learn about how to use github,
+learn about how to push and pull and make a folder or file.

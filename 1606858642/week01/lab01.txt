@@ -1,0 +1,20 @@
+total 64
+drwxr-xr-x 15 pamela.kareen61 StafCS 4096 Sep  7 15:15 .
+drwx--x--x  3 pamela.kareen61 StafCS 4096 Sep  7 12:33 ..
+drwxr-xr-x  8 pamela.kareen61 StafCS 4096 Sep  7 13:27 .git
+-rw-r--r--  1 pamela.kareen61 StafCS    0 Sep  7 15:17 lab01.txt
+-rw-r--r--  1 pamela.kareen61 StafCS    7 Sep  7 12:33 README.md
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 13:08 SandBox
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 13:26 week00
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:52 week01
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:52 week02
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:53 week03
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:53 week04
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:53 week05
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:53 week06
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:53 week07
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:53 week08
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:53 week09
+drwxr-xr-x  2 pamela.kareen61 StafCS 4096 Sep  7 12:53 week10
+/home/fasilkom/mahasiswa/p/pamela.kareen61/os162/week01
+Today is 07 Sep 2016 at 15:43:14

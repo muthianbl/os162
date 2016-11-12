@@ -1,0 +1,61 @@
+point number 1:
+1.1 the different code is that the global varible is outside of all functions,
+and local variable is inside a function. 
+Global variable output didnt have any changes at the address when it was run twice.
+And the lokal variable output have changes at the address when it was run twice. 
+
+1.2 because global variable are located at data section. 
+and local variable are located at the stack (higher memory address).
+
+1.3 global variables are declared outside the function and can be used on
+any function in the program. local variables are declared inside a function
+and can be used only inside that function.
+
+point number 2:
+2.1 variable only holds a value a pointer variable holds the address of the value.
+2.2 we write pointer in c with * and we make the chain of pointer using * and then 
+we point it to another pointer if its pointer pointer ** until we point them into a 
+variable. 
+2.3 pointer is a variable whose value is the address of another variable, direct
+address of the memory location. we must declare a pointer before using it to store
+any variable address. the asterisk * used to declare a pointer is the same asterisk
+used for multiplication. however, the asterisk is being used to designate a variable
+as a pointer. to use pointer there are a few impotant operation: define a pointer
+variable, assign the address of a variable to a pointer and finnaly access the 
+value at the address available in the pointer variable. 
+reference: www.tutorialspoint.com/cprogramming/c_pointers.htm
+
+point number 3:
+3.1 O_APPEND the file is open in append mode.
+    O_ASYNC enable signal-driven I/O.
+    O_CLOEXEC Enable the close-on-exec flag for the new descriptor.
+    O_CREAT if the file does not exist, it will be created.
+    O_DIRECT try minimize cache effect of the I/O to and from this file.
+    O_EXCL ensure that this call creates the file.
+    O_TMPFILE created an unnamed temporary file.
+    O_TRUNC if the file already exists and is a regular file and the access mode allows
+            writing it will be truncated to length 0.
+3.2 r is a read only file. the file must already exist.
+    w is a wriye only file. if the file already exists, its previous contents are
+      discarded.
+    O_RDONLY read-only
+    O_WRONLY write-only
+    O_RDWR read/write
+3.3 open function: a call to open() creates a new open file description, an entry in the
+    system-wide table of open file. the open file description records the file offset and
+    the file status flags.
+    close function: close() closes a file descriptor, so that it no longer refers to any 
+    file and may be reused. any records locks held on the file it was associated with, and
+    owned by the process , are removed.
+
+pointer number 4:
+file descriptor is a abstract indicator used to access a file or other input/output
+resource. corresponding to the three standard: integer value 0 (standard input), 
+integer value 1 (standard output), and integer value 2 (standard error). that why
+the program runs and starts at 3 . because 1,2,3 is already used.
+
+pointer number 5:
+the program is about read-write. the function read-write the character. it returns a value
+if it success or puts a string cannot creat file if its error.Reads the string and if the 
+function reaches the maximum number (the looping) it stops reading. 
+and then display the total time.  
