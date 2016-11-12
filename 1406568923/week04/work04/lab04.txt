@@ -1,0 +1,40 @@
+1.a.
+the first program store the given variables as Global Variable.
+while the second program store the given variables as Local Variables.
+
+1.b.
+
+
+1.c.
+A Local Variable is a variable which is either a variable declared within the function or is an argument passed to a function.
+
+A Global variable is a variable which is accessible in multiple scopes.
+
+Reference: http://pages.cs.wisc.edu
+
+2.a.
+Other variable type's value can be anything as long as it is within the variable type's scope.While the pointer variable's value is the memory address of another variable.Therefore pointer variable could return any types of variable as long as we know the address unlike other variable type which are constricted to using a value within their own respective scope.
+
+2.b.
+We write the pointer variable by first naming the variable and then choose a random address or an address from a previously declared variable.To chain it we use another pointer to point to the address of the previous pointer variable.
+
+2.c.
+A pointer is a variable whose value is the address of another variable.
+
+3.a.
+there are 10 parameter.
+
+3.b.
+there are 7 parameter.
+
+3.c.
+I/O is the communication between an information processing system.
+
+Reference: http://Webopedia.com
+
+4.
+The program is used to write something to a new file.
+
+5.
+The program reads the content of the previously written file, and write a new
+file based on that.

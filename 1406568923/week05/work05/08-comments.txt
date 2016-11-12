@@ -1,0 +1,1 @@
+program 06-memory.c menampilkan banyaknya memory dan juga berapa persen dari cpu yang digunakan untuk menjalankan program tersebut.

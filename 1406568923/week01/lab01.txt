@@ -1,0 +1,20 @@
+total 64
+drwxr-xr-x 15 emil.farisan StafCS 4096 Sep  8 09:45 .
+drwx--x--x  4 emil.farisan StafCS 4096 Sep  8 09:41 ..
+drwxr-xr-x  8 emil.farisan StafCS 4096 Sep  8 09:42 .git
+-rw-r--r--  1 emil.farisan StafCS    0 Sep  8 09:46 lab01.txt
+-rw-r--r--  1 emil.farisan StafCS   44 Sep  8 08:35 README.md
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 09:18 SandBox
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 09:41 week00
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:42 week01
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:44 week02
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:44 week03
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:44 week04
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:45 week05
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:45 week06
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:45 week07
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:45 week08
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:45 week09
+drwxr-xr-x  2 emil.farisan StafCS 4096 Sep  8 08:46 week10
+/home/fasilkom/mahasiswa/e/emil.farisan/os162/week01 
+Today is 08 Sep 2016 at 14:06:51
