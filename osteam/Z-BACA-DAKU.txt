@@ -1,0 +1,13 @@
+REV01 Sat Oct 01 15:02:12 WIB 2016 - Anindhita
+REV00 Wed Sep 14 09:27:40 WIB 2016
+START Wed Sep 14 09:27:40 WIB 2016
+==================================
+
+os-team-gnupg.tbj			- Isi badak:~osteam/.gnupg/ (terupdate)
+os-team-gnupg-160913.tbj		- Gnupg osteam pertama
+os-team-gnupg-160928-osteam1.tbj	- Gnupg osteam1
+os-team-gnupg-160928-nopsswd.tbj	- Gnupg osteam pertama yang sudah dihilangkan password/passphrase-nya
+osteam-public-key-1.txt			- pubkey osteam
+osteam-public-key-2.txt			- pubkey osteam1
+Z-BACA-DAKU.txt				- Berkas ini.
+
